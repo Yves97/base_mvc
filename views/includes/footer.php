@@ -1,0 +1,1 @@
+<!-- ce fichier contient le footer du site -->
